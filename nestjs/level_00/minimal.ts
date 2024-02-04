@@ -9,10 +9,10 @@
     minimal(3, 2) // 2
     minimal(3, 3) // 3
 */
-function mininmal(a: number, b: number){
+function minimal(a: number, b: number){
     return a <= b? a : b;
 }
 
-console.log (mininmal(1,4));
-console.log (mininmal(3,2));
-console.log (mininmal(3,3));
+console.log (minimal(1,4));
+console.log (minimal(3,2));
+console.log (minimal(3,3));
