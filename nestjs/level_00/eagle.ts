@@ -28,4 +28,8 @@ export class Eagle extends Animal{
         super(eagleName, eagleAge, false);
         this.speed = eagleSpeed;
     }
+
 }
+
+// let eagle = new Eagle("myEagle", 20, 300);
+// console.log(`isMammal : ${eagle.isMammal}`);

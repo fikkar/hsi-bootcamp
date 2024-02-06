@@ -14,11 +14,7 @@ sedang terbang!"
   
 
     constructor(eagleRunName: string, eagleRunSpeed: number, eagleRunAge: number = 4){
-        // console.log(`eagleRunName: ${eagleRunName}`);
-        // console.log(`eagleRunSpeed: ${eagleRunSpeed}`);
-        // console.log(`eagleRunAge: ${eagleRunAge}`);
         super(eagleRunName, eagleRunAge, eagleRunSpeed);
-        // super(eagleRunName, null, eagleRunSpeed);
     }
 
     fly(): string {

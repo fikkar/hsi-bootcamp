@@ -41,7 +41,7 @@ function perjumlahBilangan(a : Array<number>, b : string){
     
 } 
 
-console.log(perjumlahBilangan([4, 5, 6], "ganjil")); //5
+
 console.log(perjumlahBilangan([1,2,3], "ganjil")); //4
 console.log(perjumlahBilangan([1,2,3,4,5,6,7], "genap")); //12
 console.log(perjumlahBilangan([1,2,3,4,5], "ganjil")); // 9

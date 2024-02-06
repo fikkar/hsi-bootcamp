@@ -14,4 +14,4 @@ import { Eagle } from "./eagle";
 
 const myEagle = new Eagle("Elo", 4, 220);
 console.log(myEagle.fly());
-// console.log(myEagle.run(100));
+//console.log(myEagle.run(100));

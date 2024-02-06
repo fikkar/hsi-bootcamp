@@ -9,8 +9,8 @@
  power(4, 0.5) // 2
 */
 
-function power(a, b) {
-    return a ** b
+function power(a:number, b:number):number {
+    return a ** b;
 }
 
 console.log(power(7, 3));
