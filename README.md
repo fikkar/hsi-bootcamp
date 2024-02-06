@@ -1,1 +1,10 @@
+1. minimal.ts
+2. power.ts
+3. jumlahBilangan.ts
 4. animal.ts
+5. rabbit.ts
+6. eagle.ts
+7. eagleRun.ts
+8. rabbitInstance.ts
+9. eagleInstance.ts
+10. eagleRunInstance.ts
